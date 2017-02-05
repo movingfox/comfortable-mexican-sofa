@@ -112,6 +112,7 @@ class ComfortableMexicanSofa::Configuration
       'tr'    => 'Türkçe',
       'uk'    => 'Українська',
       'zh-CN' => '简体中文',
+      'zh-HK' => '香港中文',
       'zh-TW' => '正體中文'
     }
     @admin_locale         = nil
